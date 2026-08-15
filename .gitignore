@@ -1,0 +1,7 @@
+.venv/
+venv/
+dist/
+build/
+output/
+*.pyd
+*.exe
